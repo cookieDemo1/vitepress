@@ -9,7 +9,7 @@ const pythonSide = util.createSidebarConfig("Python", "python")
 
 
 module.exports = {
-  title: "HCP VitePress",
+  title: "Note VitePress",
   description: "Just playing around.",
   markdown: {
     lineNumbers: true

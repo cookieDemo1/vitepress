@@ -1,10 +1,14 @@
 :::tip 提示
-这是记录的所有的笔记
+这是记录的笔记，使用的框架为vitepress
 :::
 
 :::tip 项目地址
-这是记录的所有的笔记
+[github.com/cookieDemo1/vitepress](https://github.com/cookieDemo1/vitepress)
 :::
+
+
+![alt github](./public/github.jpg)
+
 
 :tada: 
 :100:
